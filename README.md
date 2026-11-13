@@ -98,6 +98,3 @@ Contributions, issues, and feature requests are welcome! Feel free to open an is
 
 This project is open source and available under the [MIT License](LICENSE).
 
----
-
-<p align="center">Made with ❤️ using C# and Windows Forms</p>
