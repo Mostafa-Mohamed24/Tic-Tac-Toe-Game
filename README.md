@@ -53,7 +53,7 @@ The project is a hands-on exercise in event-driven programming, custom drawing w
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
+   git clone https://github.com/Mostafa-Mohamed24/Tic-Tac-Toe-Game.git
    ```
 2. **Open the solution** — double-click the `.sln` file to open it in Visual Studio.
 3. **Restore & build** — press `Ctrl + Shift + B` (or *Build → Build Solution*).
